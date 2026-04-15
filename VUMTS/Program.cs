@@ -29,6 +29,7 @@ namespace VUMTS
             model.View = view;
             model.Controller = controller;
 
+            //useless comment
             Application.Run((View)view);
         }
     }
