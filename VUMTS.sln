@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VUMTS", "VUMTS\VUMTS.csproj", "{84748AC3-CB42-4840-9C0D-034FC1730C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84748AC3-CB42-4840-9C0D-034FC1730C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84748AC3-CB42-4840-9C0D-034FC1730C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84748AC3-CB42-4840-9C0D-034FC1730C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84748AC3-CB42-4840-9C0D-034FC1730C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B604A021-193B-4462-9438-22B7FA7D8D22}
+	EndGlobalSection
+EndGlobal
